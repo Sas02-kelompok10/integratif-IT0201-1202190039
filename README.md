@@ -1,6 +1,6 @@
 # integratif-IT0201-1202190039
 
-## Tahapan instalasi laravel
+## Tahapan 1 instalasi laravel
 
 * Download file composer
 ![image](https://user-images.githubusercontent.com/93419670/173064961-ab05677b-91ca-459d-a77c-a538cedf5961.png)
@@ -36,13 +36,23 @@ php artisan serve
   - jika muncul tulisan diatas, maka selanjutnya membuka link yang telah disediakan laravel
 ![image](https://user-images.githubusercontent.com/93419670/173065041-4c04db53-3b72-42ae-90ea-4d6a2ef9704d.png)
 
+## Tahapan 2 
+* Aktifkan XAMPP
 ![image](https://user-images.githubusercontent.com/93419670/176113162-dbf71676-3e82-4826-9d21-3d6e7bc31390.png)
+
+* Ubah DB_DATABASE di .env sesuai dengan nama database yang dibuat di phpmyadmin
 ![image](https://user-images.githubusercontent.com/93419670/176113828-55fc29f7-1f82-403f-9a82-cf3c9a3b0e3f.png)
 
+* Buat 2 table rss dan news dengan fitur migrations menggunakan perintah
 ![image](https://user-images.githubusercontent.com/93419670/176115278-c4e504c0-66ef-46a1-a86a-f7c14d701ed6.png)
+
+* Tambahkan kolom name dan url pada tabel rss, seperti pada gambar dibawah
 ![image](https://user-images.githubusercontent.com/93419670/176115404-b339a77c-79bf-489e-ada3-ced7645afd10.png)
 
-![image](https://user-images.githubusercontent.com/93419670/176115648-213cab06-6cd3-45b5-bd58-4304ff2022e1.png)
+* Tambahkan kolom title, img_url, description, source_url, dan rss_id pada tabel news, seperti pada gambar dibawah
+![image](https://user-images.githubusercontent.com/93419670/176144023-0ef5634a-72d3-4aa9-a8ab-36e0e478782e.png)
+
+*
 ![image](https://user-images.githubusercontent.com/93419670/176116851-5299343b-003c-48f4-9bf6-db8df5ebc4c1.png)
 ![image](https://user-images.githubusercontent.com/93419670/176118107-e7d210ed-b7be-4b45-a0e8-40d3bb9be163.png)
 ![image](https://user-images.githubusercontent.com/93419670/176118740-867a4ca5-1069-4c82-872a-7ae49c98365f.png)
@@ -56,5 +66,22 @@ php artisan serve
 ![image](https://user-images.githubusercontent.com/93419670/176124853-d94b99d6-580a-434e-a966-f5465729f0ca.png)
 ![image](https://user-images.githubusercontent.com/93419670/176125188-6ea77d42-298d-4f98-8b08-2dd4f43947fa.png)
 
+![image](https://user-images.githubusercontent.com/93419670/176138355-a237d543-eb7d-4372-837c-83063214f972.png)
+![image](https://user-images.githubusercontent.com/93419670/176138446-02a11129-c24b-4724-a695-fac517db7ddb.png)
+![image](https://user-images.githubusercontent.com/93419670/176139139-9299bf8e-aad9-437c-b1f3-0605ec6b04de.png)
+![image](https://user-images.githubusercontent.com/93419670/176139215-559f85cd-2447-4817-b447-67660c826971.png)
 
+* Cek localhost di http://127.0.0.1:8000/aggregrate/1 dan di database phpmyadmin
+![image](https://user-images.githubusercontent.com/93419670/176139704-60a39be1-2167-4fa4-8d92-eb074bfc7e26.png)
 
+![image](https://user-images.githubusercontent.com/93419670/176139792-599ba8e7-7973-4268-a6bf-2897411099df.png)
+
+* Cek localhost di http://127.0.0.1:8000/aggregrate/2 dan di database phpmyadmin
+![image](https://user-images.githubusercontent.com/93419670/176140784-68c2bcfb-8e86-446c-aa76-cb35732e2962.png)
+
+![image](https://user-images.githubusercontent.com/93419670/176140901-306fce3f-9cec-4756-9bd2-3c805a1f289f.png)
+
+* Cek localhost di http://127.0.0.1:8000/aggregrate/4 dan di database phpmyadmin
+![image](https://user-images.githubusercontent.com/93419670/176141934-afaffd29-9eac-4b7b-af8f-539cb03a0fa5.png)
+
+![image](https://user-images.githubusercontent.com/93419670/176142012-4923dff9-ce63-494e-b53c-a84bf0fc3ba8.png)
