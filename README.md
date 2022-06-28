@@ -35,3 +35,26 @@ php artisan serve
 
   - jika muncul tulisan diatas, maka selanjutnya membuka link yang telah disediakan laravel
 ![image](https://user-images.githubusercontent.com/93419670/173065041-4c04db53-3b72-42ae-90ea-4d6a2ef9704d.png)
+
+![image](https://user-images.githubusercontent.com/93419670/176113162-dbf71676-3e82-4826-9d21-3d6e7bc31390.png)
+![image](https://user-images.githubusercontent.com/93419670/176113828-55fc29f7-1f82-403f-9a82-cf3c9a3b0e3f.png)
+
+![image](https://user-images.githubusercontent.com/93419670/176115278-c4e504c0-66ef-46a1-a86a-f7c14d701ed6.png)
+![image](https://user-images.githubusercontent.com/93419670/176115404-b339a77c-79bf-489e-ada3-ced7645afd10.png)
+
+![image](https://user-images.githubusercontent.com/93419670/176115648-213cab06-6cd3-45b5-bd58-4304ff2022e1.png)
+![image](https://user-images.githubusercontent.com/93419670/176116851-5299343b-003c-48f4-9bf6-db8df5ebc4c1.png)
+![image](https://user-images.githubusercontent.com/93419670/176118107-e7d210ed-b7be-4b45-a0e8-40d3bb9be163.png)
+![image](https://user-images.githubusercontent.com/93419670/176118740-867a4ca5-1069-4c82-872a-7ae49c98365f.png)
+![image](https://user-images.githubusercontent.com/93419670/176119130-b2b93174-6048-41c9-b5bc-3f021a263c22.png)
+![image](https://user-images.githubusercontent.com/93419670/176119473-ac02499e-c2cb-471d-99c6-2536c715bb09.png)
+![image](https://user-images.githubusercontent.com/93419670/176123248-5175cdcc-e85f-417d-9a4f-0788bf19ce11.png)
+![image](https://user-images.githubusercontent.com/93419670/176123439-e9d6d5a9-6b02-4d05-a549-2a152571298a.png)
+![image](https://user-images.githubusercontent.com/93419670/176123777-7639be9d-f4a0-4ec1-9162-83184664dd87.png)
+
+![image](https://user-images.githubusercontent.com/93419670/176123986-45ee2cf6-3251-458b-9084-513b41c5bd65.png)
+![image](https://user-images.githubusercontent.com/93419670/176124853-d94b99d6-580a-434e-a966-f5465729f0ca.png)
+![image](https://user-images.githubusercontent.com/93419670/176125188-6ea77d42-298d-4f98-8b08-2dd4f43947fa.png)
+
+
+
